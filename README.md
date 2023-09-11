@@ -1,6 +1,6 @@
-[![Lotto Buy Bot (로또 구매봇)](https://github.com/datadbs/auto-lotto-gitaction/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/datadbs/auto-lotto-gitaction/actions/workflows/action.yml)
+[![Lotto Buy Bot (로또 구매봇)](https://github.com/richrobo/auto-lotto/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/richrobo/auto-lotto/actions/workflows/action.yml)
 
-[![Check The Result Of Lotto (로또 결과봇)](https://github.com/datadbs/auto-lotto-gitaction/actions/workflows/action-result.yml/badge.svg?branch=main)](https://github.com/datadbs/auto-lotto-gitaction/actions/workflows/action-result.yml)
+[![Check The Result Of Lotto (로또 결과봇)](https://github.com/richrobo/auto-lotto/actions/workflows/action-result.yml/badge.svg?branch=main)](https://github.com/richrobo/auto-lotto/actions/workflows/action-result.yml)
 
 # Buying the lottery automatically through GitHub Actions
 > ***매주 토요일 KST 08:50 에 동행 복권 로또 구매*** <br/>
