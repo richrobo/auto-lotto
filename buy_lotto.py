@@ -1,9 +1,9 @@
 import re
 import sys
 import time
+import requests
 from datetime import datetime, timedelta
 
-import requests
 from requests import post, Response
 from playwright.sync_api import Playwright, sync_playwright
 
