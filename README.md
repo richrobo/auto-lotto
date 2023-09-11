@@ -1,5 +1,5 @@
 [![Lotto Buy Bot (로또 구매봇)](https://github.com/richrobo/auto-lotto/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/richrobo/auto-lotto/actions/workflows/action.yml)
-
+[![Check Balance Bot (구매 잔액봇)](https://github.com/richrobo/auto-lotto/actions/workflows/action-balance.yml/badge.svg?branch=main)](https://github.com/richrobo/auto-lotto/actions/workflows/action-balance.yml)
 [![Check The Result Of Lotto (로또 결과봇)](https://github.com/richrobo/auto-lotto/actions/workflows/action-result.yml/badge.svg?branch=main)](https://github.com/richrobo/auto-lotto/actions/workflows/action-result.yml)
 
 # Buying the lottery automatically through GitHub Actions
