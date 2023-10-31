@@ -59,15 +59,6 @@
 
 ## LOG & ISSUE
 
-- `23.07.29` 누적 2만원 소비, MAX Matched num = 2개
-
-![](./imgs/img-get-1.png)
-
-- `23.08.12` 대박,, 5등 당첨! 감격!
-
-![](./imgs/img5.png)
-
-- http request fail 또는 순단으로 인해 html를 제대로 가져오지 못할 때 retry concept이 필요할듯
 
 ## STACK
 - python
