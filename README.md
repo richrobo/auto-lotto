@@ -17,7 +17,6 @@
 #### 2. `fork`한 repo를 `git clone` 한다.
 
 #### 3. telegram bot 세팅은 아래 글 참조, 사용하지 않는다면 그냥 주석처리해도 된다.
-- https://yunwoong.tistory.com/129 최신글 참고 추천!
 - slack python SDK를 사용하는 것이 아니라 restAPI Http call을 한다.
 
 #### 4. `action.yml` 파일을 보면 gitaction 시크릿값을 python run 인자로 넘길때 사용하고 있다. 즉 시크릿값만 세팅하면 된다.
