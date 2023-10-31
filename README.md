@@ -25,8 +25,8 @@
 
 ![](./imgs/img2.png)
 
-- slack bot token은 `xoxb` 로 시작하는, bot OAuth token값이다.
-- slack channel 값은 추가한 slack bot을 초대한 그 채널값이 필요하다.
+- telegram bot token은 BotFather로부터 받은 bot token값이다.
+- telegram channel 값은 BotFather와의 대화창에서 대화를 시작하고 https://api.telegram.org/bot봇Token값/getUpdates에 들어가면 나오는 message의 id값이다.
 - BUY_COUNT가 구매할 복권 수 세팅 값이다.
 - 그 외 user값은 https://dhlottery.co.kr/common.do?method=main 여기 회원가입한 정보를 넣자. ***절대 절대 절대 노출 안되게 조심***
 
