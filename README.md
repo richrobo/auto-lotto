@@ -11,7 +11,7 @@
 - slack bot을 통해 slack noti (hook) 전달함
 
 ## GETTING START
-
+ 
 #### 1. `fork`를 한다!
 
 #### 2. `fork`한 repo를 `git clone` 한다.
